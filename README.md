@@ -1,4 +1,4 @@
 login
 =====
 
-login
+login and password authentication
